@@ -1,0 +1,57 @@
+.body {
+  width: fit-content;
+}
+
+.video-card {
+  width: 150px;
+  margin-top: 4px;
+  margin-right: 4px;
+  margin-bottom: 4px;
+  margin-left: 4px;
+  vertical-align: top;
+  display: inline-block;
+}
+
+.video-preview {
+  width: 150px;
+
+}
+
+.video-title {
+  font-size: 5px;
+  margin-top: 0px;
+}
+
+.thumbnail {
+  object-fit: contain;
+  width: 100%;
+  display: block;
+}
+
+.profile-picture {
+  width: 100%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.channel-picture {
+display: inline-block;
+width: 35px;
+}
+
+.video-info {
+display: inline-block;
+width: 100%;
+}
+
+.video-author {
+  font-size: 5px;
+  width: 115px;
+  display: block;
+}
+
+.video-views {
+  font-size: 5px;
+  width: 115px;
+  display: block;
+}
